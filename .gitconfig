@@ -1,0 +1,25 @@
+[init]
+	defaultBranch = main
+[user]
+	name = Truong Minh Phat
+	email = tmphat1312@gmail.com
+[alias]
+	co = checkout
+	br = branch
+	st = status
+	unstage = reset HEAD --
+	last = log -1 HEAD
+	alias = ! git config --get-regexp ^alias\\. | sed -e s/^alias\\.// -e s/\\ /\\ =\\ /
+	ac = !git add -A && git commit -m
+	cm = commit
+	lo = log --graph --oneline --decorate
+	forgot = commit --amend --no-edit
+	com = checkout main
+	p = pull
+[zimfw]
+	git-commit-alias =
+[core]
+	editor = code --wait
+	autocrlf = false
+[push]
+	autoSetupRemote = true
