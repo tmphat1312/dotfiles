@@ -141,6 +141,7 @@ alias lg="lazygit"
 alias lci="lazycli"
 alias c="code"
 alias ls="lsd"
+alias v="vim"
 
 # My packages
 for file in ~/.zsh/*.zsh; do
