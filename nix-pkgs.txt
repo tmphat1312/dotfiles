@@ -1,0 +1,16 @@
+bat -> /nix/store/119y38i56azh5iflcwwwkws52h40y60d-bat-0.25.0
+bun -> /nix/store/2cfh8ykw70k611aw0z0v6chvfn6yjkbx-bun-1.2.16
+fnm -> /nix/store/wywp9rzcnbgj6m07szmaag4kzksagmc0-fnm-1.38.1
+gh -> /nix/store/yvh0c8j538k9clk6wmsmif4kf2jq7wys-gh-2.74.1
+gnumake -> /nix/store/5g01b5r1dbk91kwy4jld5vc1asy0mir4-gnumake-4.4.1-man
+lazydocker -> /nix/store/fp402rdk234fv6law56b015maz25pbzj-lazydocker-0.24.1
+lazygit -> /nix/store/cxlvjg9lg0irz6amy4x5d2cb0s74jq8c-lazygit-0.52.0
+lsd -> /nix/store/00yfi520ca2k45v0329s02s7njg3scid-lsd-1.1.5
+nix -> /nix/store/3qh0pcp0wvqc2gd5qzir4mlfcgwmdfyy-nix-2.29.0
+ollama -> /nix/store/fdij59p03pikw99l3ahphhgrhkiz89kx-ollama-0.9.1
+stow -> /nix/store/ga0rjvh6rfij9gi8ras0q47m5j2s3nw2-stow-2.4.1
+tree -> /nix/store/wngjygf5hvr88144fad4gbzag1yc8bd0-tree-2.2.1
+uv -> /nix/store/27akw8xb1q5hf86cn37y0vnj6pdnca0w-uv-0.7.12
+volta -> /nix/store/mwbp83ikg3418jnqwkm835q8qy6s8l0s-volta-2.0.2
+zoxide -> /nix/store/lgq3wvj0rnds3nmisx0x4s622sgj42vg-zoxide-0.9.8
+
